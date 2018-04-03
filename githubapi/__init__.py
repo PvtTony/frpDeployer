@@ -1,0 +1,1 @@
+from githubapi.github import FrpRelease

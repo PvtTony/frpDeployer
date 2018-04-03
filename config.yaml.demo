@@ -1,0 +1,13 @@
+aliyun:
+  access_key:
+    id: 阿里云提供的AccessKeyId
+    secret: 阿里云提供的AccessKeySecret
+  domain_name: 阿里云 云解析的域名名称
+  region_id: 阿里云地域ID
+  default_instance:
+    zone_id: 新建实例的可用区ID
+    instance_type: 实例类型
+    instance_name: 实例名称
+    server_password: 实例密码
+    security_group_id: 实例安全组ID
+    image_id: 实例镜像ID
